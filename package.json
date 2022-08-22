@@ -20,6 +20,7 @@
     "mocha-multi": "1.0.1"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.12.1",
     "babel-upgrade": "0.0.24"
   }
 }
